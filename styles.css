@@ -30,6 +30,8 @@ li {
   list-style: inside;
 list-style-type: square;
 line-height: 2;
+  padding-left: 20px;
+  text-indent: -20px;
 }
 
 ul {
@@ -38,3 +40,4 @@ ul {
   text-align: left;     
 
 }
+
